@@ -25,7 +25,7 @@ MIST 4610 9:35-10:50 Group 9
    REPO: https://github.com/purwplhaze/mist4610_project1
 
 # DESCRIPTION OF DATASET
-
+This dataset represents Battery Electric Vehicles and Plug-in Hybrid Vehicles that are currently registered through the Washington Department of Licensing. We obtained the dataset from the website provided: (https://catalog.data.gov/dataset/electric-vehicle-population-data). The varying datatypes include the make and model of the car, VIN number,and electric vehicle type; these data types are string. Numeric measurements such as the electric vehicle range and base MSRP are of datatype number(whole), with the date of the model of the car being of datatype date & time. This dataset helps us depict the reality of electric vehicles within the state of Washington within the period of 1997  to present day and draw conclusions for consumers based upon this dataset.
 
 # QUESTION 1
 
@@ -33,8 +33,10 @@ MIST 4610 9:35-10:50 Group 9
 Is there a correlation between newer PHEV and BEV car models and longer electric car ranges? And if so, how significant is that correlation?
 
 ### SIGNIFIGANCE: 
+The general signifigance of this question lies with the consumer in the electric vehicle market, especially in areas similar to the state of Washington. The answer to this question provides potential consumers information regarding the relationship between newer car models and electric car range among Plug-in Hybrid Electric Vehicles (PHEV) and Battery Electric Vehicles (BEV). Depending on which car model the consumer prefers, this information would help them consider if purchasing a newer car model will generally lead to improved range on their vehicle.
+### GRAPH 1
 
-### GRAPH
+### GRAPH 2
 <img width="624" alt="AvgRangeBy Year" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/e523276f-b4bf-4d67-8a8a-17866cbaeadd">
 
 
